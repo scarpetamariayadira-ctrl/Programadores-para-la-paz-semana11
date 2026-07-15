@@ -1,0 +1,23 @@
+Entidad: Reporte Comunitario
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Almacenar todos los reportes o necesidades que registran los vecinos, para tener la información ordenada y consultable.
+
+---
+
+Entidad: Usuario
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- fecha_registro
+
+Propósito:
+Identificar a las personas que participan en la plataforma, sin guardar datos sensibles reales.
+

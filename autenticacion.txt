@@ -1,0 +1,6 @@
+El login es el proceso que permite identificar a una persona antes de darle acceso a la plataforma, usando sus datos de acceso.
+
+Algunas rutas deben estar protegidas porque guardan información privada, datos de los vecinos o acciones que solo corresponden a ciertos usuarios.
+
+No se debe exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, claves ni cualquier dato personal o sensible de la comunidad.
+

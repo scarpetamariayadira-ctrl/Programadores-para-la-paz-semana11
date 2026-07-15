@@ -1,0 +1,8 @@
+La interfaz tendrá un formulario sencillo para registrar un nuevo reporte, con espacio para poner título, descripción y fecha.
+
+También mostrará una lista con todos los reportes registrados, para que cualquier persona los pueda revisar.
+
+Cada reporte tendrá un botón para apoyar la causa y un contador que muestre cuántas personas ya lo han respaldado.
+
+Todo estará organizado de forma clara, fácil de usar y sin mostrar información privada de los usuarios.
+

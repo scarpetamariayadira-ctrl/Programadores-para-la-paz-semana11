@@ -1,0 +1,2 @@
+Una plataforma de participación ciudadana necesita base de datos para guardar y ordenar toda la información de forma segura y organizada. La autenticación es necesaria para saber quién participa y proteger las funciones del sistema. Por último, la protección de datos garantiza que la privacidad de las personas se respete siempre, generando confianza en la comunidad. Juntas hacen que la herramienta sea útil, segura y adecuada para todos los vecinos.
+
